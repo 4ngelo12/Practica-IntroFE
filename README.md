@@ -1,2 +1,3 @@
 # Practica-IntroFE
-Requerimientos:
+
+1. Toma de requerimientos
