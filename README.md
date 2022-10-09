@@ -51,3 +51,13 @@ Diagrama de Flujo
 
 
 # 2. Buyer Persona
+
+
+
+# 3. Público Objetivo
+
+
+# 4. Wireframe
+
+
+# 5. UI
