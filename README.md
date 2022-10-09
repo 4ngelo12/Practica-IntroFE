@@ -49,3 +49,5 @@ Requerimientos No Funcionales:
 Diagrama de Flujo
 ![Diagrama de Flujo](https://user-images.githubusercontent.com/103296574/194772690-bcca5fb3-aaed-4513-9f15-5c251439c0a9.jpeg)
 
+
+# 2. Buyer Persona
