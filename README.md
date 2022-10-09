@@ -2,5 +2,5 @@
 
 # 1. Toma de requerimientos
 
-Proyecto: Abogabot
-Requerimientos Funcionales:
+-Proyecto: Abogabot
+-Requerimientos Funcionales:
