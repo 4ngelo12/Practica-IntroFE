@@ -51,7 +51,8 @@ Diagrama de Flujo
 
 
 # 2. Buyer Persona
-href=google.com
+
+[Buyer_Persona.pdf](https://github.com/4ngelo12/Practica-IntroFE/files/9814680/Buyer_Persona.pdf)
 
 
 # 3. Público Objetivo
