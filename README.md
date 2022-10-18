@@ -12,7 +12,7 @@ Generales:
 
 * Validar registro de usuario
 
- UX Cliente:
+ Cliente:
 
 * Se permitirá a los clientes realizar las demandas llenando un formulario
 
@@ -24,7 +24,7 @@ Generales:
 
 * Podrá modificar los colores predeterminados de la interfaz
 
-UX Administrador:
+Administrador:
 
 * Recibirá una notificación de las nuevas demandas 
 
